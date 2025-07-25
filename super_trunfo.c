@@ -34,19 +34,13 @@ int main(){
     scanf("%d", &npt);
 
     printf("CARTA NÚMERO 1: \n");
-
+    
     printf("Nome do estado: %s\n",estado); 
-
     printf("Código da carta: %s\n",Codcarta);
-
     printf("Nome da Cidade: %s\n",cidade);
-
     printf("População: %d\n",populacao);
-
     printf("Àrea: %f\n",km²);
-
     printf("PIB: %f\n",pib);
-
     printf("Número de Pontos Turísticos: %d\n",npt);
 
 
@@ -86,17 +80,11 @@ int main(){
     printf("CARTA NÚMERO 2: \n");
 
     printf("Nome do estado: %s\n",estado2); 
-
     printf("Código da carta: %s\n",Codcarta2);
-
     printf("Nome da Cidade: %s\n",cidade2);
-
     printf("População: %d\n",populacao2);
-
     printf("Àrea: %f\n",km²2);
-
     printf("PIB: %f\n",pib2);
-
     printf("Número de Pontos Turísticos: %d\n",npt2);
 
     return 0;
